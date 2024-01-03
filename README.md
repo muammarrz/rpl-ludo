@@ -1,5 +1,7 @@
 tugas besar RPL : Implementasi dan Pengujian IF-45-08
+
 aplikasi permainan LUDO yang bisa dimainkan hingga 4 pemain.
+
 Oleh :
 Az Zahrah Nur Sabrina (1301210503)
 Farhan Abdullah Yunus (1301213365)
